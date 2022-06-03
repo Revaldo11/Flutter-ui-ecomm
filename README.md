@@ -5,6 +5,8 @@ flutter pub get
 flutter run
 ```
 
-## ScreenShots
+## ScreenShots & Gif
 
-<img src="/screenshot/one.png" height="500em" /> &nbsp; <img src="/screenshot/two.png" height="500em" />
+<img src="/screenshot/one.png" height="500em" /> &nbsp; <img src="/doc/two.png" height="500em" />
+
+![App preview](/doc/gif/one.gif)
