@@ -7,6 +7,6 @@ flutter run
 
 ## ScreenShots & Gif
 
-<img src="/screenshot/one.png" height="500em" /> &nbsp; <img src="/doc/two.png" height="500em" />
+<img src="/doc/one.png" height="500em" /> &nbsp; <img src="/doc/two.png" height="500em" />
 
 ![App preview](/doc/gif/one.gif)
